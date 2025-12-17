@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="icon/png/256x256/polkadot-icon__near-black-on-transparent.png" alt="Polkadot Icon" width="128">
-</p>
+![Polkadot Header](header.png)
 
 # Polkadot Second Age inofficial Brand Kit
 
@@ -62,7 +60,14 @@ This is an inofficial guide that got inferred from the polkadot.com page
 **Cool Gray:** #E5E7EB
 **Near Black:** #0F0F0F (95% opacity)
 
-### Available Variants
+### Variants
+
+<p align="center">
+  <img src="icon/png/256x256/polkadot-icon__cool-gray-on-near-black.png" alt="Light on dark" width="128">
+  <img src="icon/png/256x256/polkadot-icon__near-black-on-cool-gray.png" alt="Dark on light" width="128">
+</p>
+
+**Available in:**
 1. Cool gray on transparent
 2. Near black on transparent
 3. Cool gray on near-black background
