@@ -15,8 +15,6 @@ This is an inofficial guide that got inferred from the polkadot.com page
 - Weights: 300, 400, 500, 600, 700
 - Use for body text, UI elements, headings
 
----
-
 ## Colors
 
 ### Brand Colors
@@ -50,8 +48,6 @@ This is an inofficial guide that got inferred from the polkadot.com page
 - Invert light/dark values
 - Light backgrounds become dark
 - Dark text becomes light
-
----
 
 ## Logo & Icon
 
