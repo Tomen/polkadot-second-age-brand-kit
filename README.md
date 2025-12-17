@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="icon/png/256x256/polkadot-icon__near-black-on-transparent.png" alt="Polkadot Icon" width="128">
+</p>
+
 # Polkadot Second Age inofficial Brand Kit
 
 This is an inofficial guide that got inferred from the polkadot.com page
